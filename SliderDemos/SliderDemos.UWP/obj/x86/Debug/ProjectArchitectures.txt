@@ -1,0 +1,1 @@
+C:\Users\jcherayil\Desktop\SliderDemos\SliderDemos.UWP\SliderDemos.UWP.csproj;x86
